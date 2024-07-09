@@ -17,6 +17,6 @@ Once this is done please note that it can take up to 24-48 hours for the DNS rec
 
 In the mean time if you need any further assistance or if you have any other questions please feel free to reach out.
 
-Kind regards,
-Isaiah
-SiteHost
+Kind regards,  
+Isaiah  
+Sitehost  
